@@ -1,3 +1,15 @@
+<h1>Blog App (Practice Project)</h1>
+
+
+<h3>Technologies Used:</h3>
+
+-  **React**: JavaScript library for building user interfaces.
+-  **Tailwind CSS**:  Open-source CSS framework.
+
+  
+---
+
+
 <h3>Screenshots:</h3>
 
 <div>
